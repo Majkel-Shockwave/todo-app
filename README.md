@@ -17,6 +17,3 @@ Tasks are saved in **localStorage**, so they remain even after refreshing the pa
 
 ## How to Run
 Just open the `index.html` file in your browser.
-
-## Live Demo
-(If you enable GitHub Pages, put your link here)
