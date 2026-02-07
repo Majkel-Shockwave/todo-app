@@ -17,3 +17,6 @@ Tasks are saved in **localStorage**, so they remain even after refreshing the pa
 
 ## How to Run
 Just open the `index.html` file in your browser.
+
+##Live Demo
+https://majkel-shockwave.github.io/todo-app/
